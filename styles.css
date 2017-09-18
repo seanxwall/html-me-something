@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color:  rgb(195, 215, 255) ;
+	font-size: 62.5%;
+}
+h1 {
+    font-size: 2.75em;
+}
+header,
+main,
+footer {
+	background-color: rgb(195, 215, 255);
+    font-size: 1.5em;
+}
+header {
+	padding: 1.875em 0;
+}
+header h1 {
+	text-align: center;
+}
+main h2 {
+    padding: 0.625em 0 0.625em 0.625em;
+}
+p {
+	padding: 1.25em;
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
