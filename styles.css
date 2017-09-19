@@ -1,3 +1,11 @@
+.intro{
+	color: red;
+	text-align: center;
+}
+#work {
+	background-color: black;
+	text-align: center;
+}
 body {
     width: 100%;
 	max-width: 1024px;
